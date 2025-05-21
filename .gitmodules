@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:justjaaara/prueba-tecnica-fsg-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:justjaaara/prueba-tecnica-sgf-backend.git
